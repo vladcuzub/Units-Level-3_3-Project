@@ -25,7 +25,7 @@ header{
   margin-left: 10px;
 }
 .box {
-    width: 300px;
+    width: 400px;
     height: 225px;
     background: linear-gradient(to top right, #ff3399 13%, #0000ff 87%);
     border-radius: 8px;
